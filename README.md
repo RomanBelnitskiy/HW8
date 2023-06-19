@@ -1,3 +1,5 @@
-## Home Work Module 8
+## Homework Module 8
 
-### Geometry shapes hierarchy
+### Hierarchy of geometric shapes
+
+![Hierarchy of geometric shapes](shape.png)
