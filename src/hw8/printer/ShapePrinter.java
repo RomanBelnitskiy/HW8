@@ -8,4 +8,8 @@ public final class ShapePrinter {
             System.out.println(shape);
         }
     }
+
+    public static void printName(Shape shape) {
+        System.out.println(shape.getName());
+    }
 }

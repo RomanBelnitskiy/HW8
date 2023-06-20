@@ -26,6 +26,8 @@ public class Main {
                 )
         };
 
-        ShapePrinter.print(shapes);
+        for (Shape shape : shapes) {
+            ShapePrinter.printName(shape);
+        }
     }
 }
